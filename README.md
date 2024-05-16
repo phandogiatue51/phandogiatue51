@@ -2,6 +2,6 @@
 - 👀 I’m interested in: men/women/children
 - 🌱 I’m currently learning: hell called software engineering
 - 💞️ I’m looking to collaborate on: long-term relationship
-- 📫 How to reach me: just to it bro
+- 📫 How to reach me: just do it bro
 - 😄 Pronouns: help/save
 - ⚡ Fun fact: i groom on roblox
