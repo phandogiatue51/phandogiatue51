@@ -12,7 +12,7 @@ public class Me
     public string[] Skills = { "ASP.NET Core", "PostgreSQL", "TypeScript", "SQL" };
     public string Goal = "Become a C# expert + fullstack when needed";
 }
-
+```
 ---
 
 ## 🛠️ My Tech Stack
