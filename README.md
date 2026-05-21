@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Tue Do (aka phandogiatue51)
+# Hi, I'm Tue Do (aka phandogiatue51)
 
-## 🚀 What I Do
+## What I Do
 
 I build backend systems with **ASP.NET Core** and **PostgreSQL**.  
 TypeScript/JavaScript on the frontend when the job calls for it.
 
 ```csharp
-// Currently on my C# expert journey 🔥
+// Currently on my C# expert journey 
 public class Me
 {
     public string[] Skills = { "ASP.NET Core", "PostgreSQL", "TypeScript", "SQL" };
@@ -15,7 +15,7 @@ public class Me
 ```
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 | Backend | Database | Frontend | Testing & Docs |
 |---------|----------|----------|----------------|
@@ -24,7 +24,7 @@ public class Me
 
 ---
 
-## 📝 What I Can Do
+## What I Can Do
 
 - ✅ Build REST APIs with ASP.NET Core
 - ✅ Design PostgreSQL/SQL schemas that don't explode
@@ -33,15 +33,7 @@ public class Me
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phandogiatue51&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phandogiatue51&layout=compact&theme=tokyonight)
-
----
-
-## 🏷️ Tech Badges
+## Tech Badges
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
@@ -57,10 +49,10 @@ public class Me
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 I'm full-stack... **under certain circumstances**.  
-Otherwise, I'm happily in API land with SwaggerHub. 😌
+Otherwise, I'm happily in API land with SwaggerHub.
 
 ---
 
