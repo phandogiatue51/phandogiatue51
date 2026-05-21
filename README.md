@@ -26,10 +26,10 @@ public class Me
 
 ## What I Can Do
 
-- ✅ Build REST APIs with ASP.NET Core
-- ✅ Design PostgreSQL/SQL schemas that don't explode
-- ✅ Test APIs using SwaggerHub (Postman? Sadly not 👋)
-- ✅ Write technical documentation & SRS like a responsible adult
+- Build REST APIs with ASP.NET Core
+- Design PostgreSQL/SQL schemas that don't explode
+- Test APIs using SwaggerHub (Postman? Not yet)
+- Write technical documentation & SRS like a responsible adult
 
 ---
 
@@ -56,10 +56,10 @@ Otherwise, I'm happily in API land with SwaggerHub.
 
 ---
 
-## 📫 Contact
+## Contact
 
 **phandogiatue51@gmail.com**
 
 ---
 
-*"Backend first, fullstack when absolutely necessary"* 🔥
+*"Backend first, fullstack when absolutely necessary"* 
